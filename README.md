@@ -1,0 +1,1 @@
+# Esto es una base de datos de ropa que ha sido utilizada para practicar con find
